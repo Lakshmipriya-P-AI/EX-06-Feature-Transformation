@@ -228,6 +228,7 @@ df
 ## Data Cleaning Process:
 
 ![pic2](https://user-images.githubusercontent.com/93427923/168523228-1efae061-4ba5-444a-9a39-b4d8ee0d3448.png)
+![pic3](https://user-images.githubusercontent.com/93427923/168524552-1f05d093-42f3-4606-afee-7c5da263964a.png)
 ![pic4](https://user-images.githubusercontent.com/93427923/168523236-520a9c70-2bd9-4630-9cad-f674e36b02ce.png)
 
 ## 1.FUNCTION TRANSFORMATION:
